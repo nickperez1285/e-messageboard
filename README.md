@@ -8,4 +8,4 @@ To make this code work you'll need to clone down the repo, run an npm install an
 to put your firebase configuration in the config object that is defined int he /src/App.js file.
 
 If you have any questions or comments about the code please don't hesitate to contact me on any of my social
-media which you can find at the top of the page at [thereactionary.net](http://thereactionary.net)
+media which you can find at the top of the page at [thereactionary.net](http://thereactionary.net)# e-messageboard
