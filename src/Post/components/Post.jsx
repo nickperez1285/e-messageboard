@@ -6,7 +6,11 @@ const Post = (props) => (
     <div className="panel-body">
       {
         props.postBody.map((postPart, idx) => (
-          <div key={idx}>{postPart}</div>
+          
+          <div key={idx}>
+             {postPart}
+             </div>
+            
         ))
       }
     </div>
