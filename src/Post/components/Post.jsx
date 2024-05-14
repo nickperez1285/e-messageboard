@@ -1,5 +1,8 @@
 import React from 'react';
 import '../styles/Post.css';
+import PostEditor from '../../PostEditor/components/PostEditor';
+
+
 
 const Post = (props) => (
   <div className="panel panel-default post-body">
@@ -9,10 +12,13 @@ const Post = (props) => (
           
           <div key={idx}>
              {postPart}
+
              </div>
             
         ))
       }
+                 
+
     </div>
   </div>
 );
