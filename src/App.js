@@ -39,8 +39,8 @@ class App extends Component {
         posts and nothing else . Its completely <u>annonymous</u> </h3>
        </center>
        <center>
-        Nicks Public Key to receive messages  
-       <p style={{width: '50%' , border:'solid'}}>
+      <b>Nicks Public Key to receive messages  </b>  
+       <p style={{width: '75%' , border:'solid'}}>
        <p>-----BEGIN PGP PUBLIC KEY BLOCK----- </p>
 <div>
 xjMEZmcdHBYJKwYBBAHaRw8BAQdAX8LX+HmXGWc5xJDU8j9hUS6ZYN09Gx67
